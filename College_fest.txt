@@ -6,3 +6,4 @@ Blind Typing
 Class Events:
 rubix cube
 Word Buzz
+Word Hunt
