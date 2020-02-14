@@ -2,8 +2,10 @@ LAB Events:
 NFS
 FIFA
 Blind Typing
+Super Mario
 
 Class Events:
 rubix cube
 Word Buzz
 Word Hunt
+Snake and Ladder
